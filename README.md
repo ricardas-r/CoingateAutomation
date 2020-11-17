@@ -1,0 +1,2 @@
+# CoingateAutomation
+Coingate happypath užduotis
